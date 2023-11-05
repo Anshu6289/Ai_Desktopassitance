@@ -1,5 +1,5 @@
 # Ai_Desktopassitance
-A desktop Assitance that would do automate some of our daily task using speech_recognition module
+A desktop Assitance that would automate some of our daily task using speech_recognition module
 Task it would do
 1.Searching wikepedia and providing  the result as per users commands
 2.Opening you-tube in browser 
